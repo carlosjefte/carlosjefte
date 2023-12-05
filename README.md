@@ -8,6 +8,8 @@
  🤝 I’m looking to collaborate on AI projects and software development
  
  📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/carlos-jefte/)
+
+ 💻 Secondary Github account: https://github.com/DarwinDontCare
  
  
 
