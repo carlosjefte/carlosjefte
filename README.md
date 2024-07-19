@@ -11,6 +11,8 @@
 
  💻 Secondary Github account: https://github.com/DarwinDontCare
  
+
+![carlosjefte GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosjefte&show_icons=true&theme=radical)
  
 
 # About Me
