@@ -19,3 +19,5 @@
 I have mobile development experience with Android and have worked on projects using React and React Native. Additionally, I develop games with Unity and create mods using Java.
 
 Feel free to connect and explore exciting opportunities together! 😊🚀
+
+Aproveite sua receita de suco de abacaxi com hortelã! 🍍🌿\nGenerated output:\n# Recipes\n\n| Title | Ingredients | Instructions | Prep_time | Cooking_time | Servings |\n| ----- | ----- | ----- | ----- | ----- | ----- |\n| Suco de Abacaxi com Hortelã | [{\"name\"=>\"abacaxi\", \"quantity\"=>\"1 unidade\"}, {\"name\"=>\"folhas de hortelã\", \"quantity\"=>\"1/2 xícara\"}, {\"name\"=>\"água\", \"quantity\"=>\"2 xícaras\"}, {\"name\"=>\"açúcar ou adoçante\", \"quantity\"=>\"a gosto\"}, {\"name\"=>\"gelo\", \"quantity\"=>\"a gosto\"}] | Descasque o abacaxi e corte-o em cubos. Coloque os cubos de abacaxi, as folhas de hortelã, a água e o açúcar no liquidificador. Bata até obter uma mistura homogênea. Coe o suco em uma peneira ou coador, se preferir. Sirva com gelo e decore com folhas de hortelã e uma rodela de abacaxi na borda do copo. | 10 minutos | 0 minutos | 4 porções |\n\n\n\n
